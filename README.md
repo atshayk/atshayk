@@ -1,5 +1,5 @@
 [🌐website](https://atshayk.github.io/portfolio/)
-/ [✉️email](anistimurshayk@gmail.com)
+/ [✉️email](mailto:anistimurshayk@gmail.com)
 
 ```
                           ████                                             ███
