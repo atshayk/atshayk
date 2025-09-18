@@ -1,4 +1,4 @@
-[🌐website](atshayk.github.io/portfolio/)
+[🌐website](https://atshayk.github.io/portfolio/)
 / [✉️email](anistimurshayk@gmail.com)
 
 ```
