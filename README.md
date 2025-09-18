@@ -34,7 +34,7 @@
 
 ┌──(me㉿github)-[~]
 └─$ cd website && cat index.html
-> atshayk.github.io/portfolio/
+> https://www.atshayk.github.io/portfolio/
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
