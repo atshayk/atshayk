@@ -41,7 +41,7 @@
 > Web Development
 > UIUX Design
 > Python
-> JavaScript / React
+> JavaScript
 > AWS Solutions
 
 ┌──(me㉿github)-[~]
