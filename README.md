@@ -1,4 +1,4 @@
-[🌐website](https://atshayk.github.io/portfolio/)
+[🌐website (it is in development)](https://atshayk.github.io/portfolio/)
 / [✉️email](mailto:anistimurshayk@gmail.com)
 
 ```
@@ -33,7 +33,7 @@
 
 ┌──(me㉿github)-[~]
 └─$ cd website && cat index.html
-> https://www.atshayk.github.io/portfolio/
+> https://www.atshayk.github.io/portfolio/ (launching soon?)
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
