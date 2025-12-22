@@ -18,15 +18,14 @@
 ┌──(me㉿github)-[~]
 └─$ whoami
 > Hey, I'm ANIS!
-> I develop and design software, websites and applications.
-> I'm also learning AWS and cloud architectures.
+> I'm a software developer who likes art and design
+> Currently learning C++, OpenGL, Metal and the whole graphics programming scene.
 
 ┌──(me㉿github)-[~]
 └─$ uname -a
 > Software Developer
-> UI/UX Designer
-> Cloud Architect
-> Cybersecurity & Hardware Enthusiast
+> Aspiring Graphics Programmer
+> Hardware Enthusiast
 
 ┌──(me㉿github)-[~]
 └─$ cat email.txt
@@ -38,17 +37,7 @@
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
-> Web Development
-> UIUX Design
-> Python
-> JavaScript
-> AWS Solutions
-
-┌──(me㉿github)-[~]
-└─$ top -n 3
-> [■■■□□□□□□□□□] Loading creativity...
-> [■■■■■■■□□□□□] Debugging bugs...
-> [■■■■■■■■■□□□] Shipping ideas...
+> Working on them.
 
 ┌──(me㉿github)-[~]
 └─$ echo "Have a good day!"
