@@ -37,7 +37,11 @@
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
-> Working on them.
+> Python and AI model pipeline
+> HTML/CSS/JS web dev
+> Cloud with AWS and Docker
+> Learning Swift for iOS/macOS development
+> Learning C++ for graphics programming and high performance computing
 
 ┌──(me㉿github)-[~]
 └─$ echo "Have a good day!"
