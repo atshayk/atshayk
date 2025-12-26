@@ -33,7 +33,7 @@
 
 ┌──(me㉿github)-[~]
 └─$ cd website && cat index.html
-> https://www.atshayk.github.io/portfolio/ (launching soon?)
+> https://www.atshayk.github.io/portfolio/ (launching mid JAN!)
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
