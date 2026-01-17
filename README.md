@@ -22,8 +22,8 @@
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
 > Python
-> Swift for iOS apps
-> TypeScript for web
+> Swift
+> TypeScript
 > Familiar with AI data pipelines
 
 ┌──(me㉿github)-[~]
