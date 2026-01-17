@@ -1,47 +1,36 @@
-[🌐website (it is in development)](https://atshayk.github.io/portfolio/)
+[🌐website (it is in development)](https://atshayk.github.io)
 / [✉️email](mailto:anistimurshayk@gmail.com)
 
 ```
-                          ████                                             ███
-                         ░░███                                            ░███
- █████ ███ █████  ██████  ░███   ██████   ██████  █████████████    ██████ ░███
-░░███ ░███░░███  ███░░███ ░███  ███░░███ ███░░███░░███░░███░░███  ███░░███░███
- ░███ ░███ ░███ ░███████  ░███ ░███ ░░░ ░███ ░███ ░███ ░███ ░███ ░███████ ░███
- ░░███████████  ░███░░░   ░███ ░███  ███░███ ░███ ░███ ░███ ░███ ░███░░░  ░░░ 
-  ░░████░████   ░░██████  █████░░██████ ░░██████  █████░███ █████░░██████  ███
-   ░░░░ ░░░░     ░░░░░░  ░░░░░  ░░░░░░   ░░░░░░  ░░░░░ ░░░ ░░░░░  ░░░░░░  ░░░ 
-
-
+       ▜              ▐ 
+▌  ▌▞▀▖▐ ▞▀▖▞▀▖▛▚▀▖▞▀▖▐ 
+▐▐▐ ▛▀ ▐ ▌ ▖▌ ▌▌▐ ▌▛▀ ▝ 
+ ▘▘ ▝▀▘ ▘▝▀ ▝▀ ▘▝ ▘▝▀▘▝ 
+ 
 ┌──(me㉿github)-[~]
-└─$ Welcome to my GitHub profile!
+└─$ man ls
+> Welcome to my GitHub profile!
+> Try whoami!
         
 ┌──(me㉿github)-[~]
 └─$ whoami
-> Hey, I'm ANIS!
-> I'm a software developer who likes art and design
-> Currently learning C++, OpenGL, Metal and the whole graphics programming scene.
-
-┌──(me㉿github)-[~]
-└─$ uname -a
-> Software Developer
-> Aspiring Graphics Programmer
-> Hardware Enthusiast
-
-┌──(me㉿github)-[~]
-└─$ cat email.txt
-> You can contact me at anistimurshayk@gmail.com
-
-┌──(me㉿github)-[~]
-└─$ cd website && cat index.html
-> https://www.atshayk.github.io/portfolio/ (launching mid JAN!)
+> Hey, I'm Anis Timur Shayk (@atshayk)
+> I'm a software developer focused on backend and iOS app development.
+> Based in Hyderabad, India!
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
-> Python and AI model pipeline
-> HTML/CSS/JS web dev
-> Cloud with AWS and Docker
-> Learning Swift for iOS/macOS development
-> Learning C++ for graphics programming and high performance computing
+> Python
+> Swift for iOS apps
+> TypeScript for web
+> Familiar with AI data pipelines
+
+┌──(me㉿github)-[~]
+└─$ draw-cat
+_._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
 
 ┌──(me㉿github)-[~]
 └─$ echo "Have a good day!"
