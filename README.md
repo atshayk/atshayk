@@ -6,6 +6,7 @@
 ▌  ▌▞▀▖▐ ▞▀▖▞▀▖▛▚▀▖▞▀▖▐ 
 ▐▐▐ ▛▀ ▐ ▌ ▖▌ ▌▌▐ ▌▛▀ ▝ 
  ▘▘ ▝▀▘ ▘▝▀ ▝▀ ▘▝ ▘▝▀▘▝ 
+-----------------------------------------------------------------------------------------------------------------------
  
 ┌──(me㉿github)-[~]
 └─$ man ls
@@ -14,9 +15,9 @@
         
 ┌──(me㉿github)-[~]
 └─$ whoami
-> Hey, I'm Anis Timur Shayk (@atshayk)
-> I'm a software developer focused on backend and iOS app development.
-> Based in Hyderabad, India!
+> Hey, I'm *Anis Timur Shayk (@atshayk on all platforms)*
+> Software developer focused on backend and iOS app development.
+> Based in *Hyderabad, India!*
 
 ┌──(me㉿github)-[~]
 └─$ cat skills.txt
