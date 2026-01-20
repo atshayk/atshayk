@@ -14,14 +14,14 @@ $ man ls
         
 $ whoami
 > Hey, I'm *Anis Timur Shayk (@atshayk on all platforms)*
-> Software developer focused on backend and iOS app development.
+> Software developer focused on mobile development, specifically Android-Native development!
 > Based in *Hyderabad, India!*
 
 $ cat skills.txt
-> Python
+> Kotlin
 > Java
+> Python
 > Swift
-> TypeScript
 > Familiar with AI data pipelines
 
 $ draw-cat
