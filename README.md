@@ -1,5 +1,9 @@
-[🌐website (under construction)](https://atshayk.github.io)
-/ [✉️email](mailto:anistimurshayk@gmail.com)
+Check out my [website](https://atshayk.github.io) for more info!
+
+Copy my email here:
+```
+anistimurshayk@gmail.com
+```
 
 ```
        ▜              ▐ 
@@ -18,11 +22,10 @@ $ whoami
 > Based in *Hyderabad, India!*
 
 $ cat skills.txt
-> Kotlin
-> Java
+> Kotlin / Java on Android Studio
+> HTML/CSS/Vanilla JavaScript for websites
 > Python
-> Swift
-> Familiar with AI data pipelines
+> Swift on Xcode
 
 $ draw-cat
 _._     _,-'""`-._
