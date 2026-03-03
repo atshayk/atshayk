@@ -1,42 +1,15 @@
-Check out my [website](https://atshayk.github.io) for more info!
+## Hey, I'm Anis.
 
-Copy my email here:
-```
-anistimurshayk@gmail.com
-```
+My name is Anis Timur Shayk.\
+Based out of Hyderabad, India.\
+I'm a modern Android-native developer who builds app with Kotlin and Jetpack Compose.\
+I work with legacy apps using Java and XML as well.
 
-```
-       ▜              ▐ 
-▌  ▌▞▀▖▐ ▞▀▖▞▀▖▛▚▀▖▞▀▖▐ 
-▐▐▐ ▛▀ ▐ ▌ ▖▌ ▌▌▐ ▌▛▀ ▝ 
- ▘▘ ▝▀▘ ▘▝▀ ▝▀ ▘▝ ▘▝▀▘▝ 
----------------------------------------------------------------------------------------------------------------------- (╯°□°）╯︵ ┻━┻
- 
-$ man ls
-> Welcome to my GitHub profile!
-> Try whoami!
-        
-$ whoami
-> Hey, I'm *Anis Timur Shayk (@atshayk on all platforms)*
-> Software developer focused on mobile development, specifically Android-Native development!
-> Based in *Hyderabad, India!*
+### Android Development Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,git,gcp)](https://skillicons.dev)
 
-$ cat skills.txt
-> Kotlin / Java on Android Studio
-> HTML/CSS/Vanilla JavaScript for websites
-> Python
-> Swift on Xcode
+Check out [my website](atshayk.github.io) while you're at it.
 
-$ draw-cat
-_._     _,-'""`-._
-(,-.`._,'(       |\`-/|
-    `-.-' \ )-`( , o o)
-          `-    \`_`"'-
+<sub>I also like these tools...</sub>
 
-$ echo "Have a good day!"
-> Have a good day!
-
-$ cat secret.txt
-> 68 74 74 70 73 3A 2F 2F 79 6F 75 74 75 2E 62 65 2F 2D 52 46 75 6E 76 46 30 6D 44 77 
-
-```
+[![My Skills](https://skillicons.dev/icons?i=python,swift,cs,cpp,rust,docker,blender,godot)](https://skillicons.dev)
