@@ -2,7 +2,7 @@
 
 My name is Anis Timur Shayk.\
 Based out of Hyderabad, India.\
-I'm a modern Android-native developer who builds app with Kotlin and Jetpack Compose.\
+I'm a modern Android-native developer who builds apps with Kotlin and Jetpack Compose.\
 I work with legacy apps using Java and XML as well.
 
 ### Android Development Tech Stack
