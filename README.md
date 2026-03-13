@@ -9,6 +9,6 @@ I work with legacy apps using Java and XML as well.
 
 Check out [my website](https://atshayk.github.io) while you're at it.
 
-<sub>I also like these tools:</sub>
+<sub>I've also dabbled in these tools</sub>
 
 [![My Skills](https://skillicons.dev/icons?i=python,swift,cs,cpp,rust,docker,blender,godot)](https://skillicons.dev)
